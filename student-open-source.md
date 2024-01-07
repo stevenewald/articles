@@ -5,7 +5,7 @@
 3. Come up with something clever?
 
 ## Goal of the article
-Explain why you should (and *shouldn't*) do OSS as a student
+Explain the benefits of contributing to OSS as a student, how to contribute, and alternatives to contributing
 
 ## Introduction (all WIP and will be modified and expanded)
 - Catch readers attention by mentioning OSS->Netflix
